@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "00_animated_dragdrop",
+            "cwd": "00_animated_dragdrop",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "00_animated_dragdrop (release mode)",
+            "cwd": "00_animated_dragdrop",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "figma_toolbar",
+            "cwd": "figma_toolbar",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "figma_toolbar (release mode)",
+            "cwd": "figma_toolbar",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

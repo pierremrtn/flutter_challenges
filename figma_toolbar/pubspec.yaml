@@ -1,0 +1,36 @@
+name: figma_toolbar
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  heroicons_flutter: ^0.3.0
+  flextras: ^1.0.0
+  gap: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/arrow.png
+    - assets/chevron_down.png
+    - assets/code.png
+    - assets/comment.png
+    - assets/frame.png
+    - assets/ink.png
+    - assets/square.png
+    - assets/star.png
+    - assets/text.png
+
