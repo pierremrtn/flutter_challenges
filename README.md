@@ -1,5 +1,7 @@
-## [Animated Drag & Drop](./00_animated_dragdrop/)
-<img src="./00_animated_dragdrop/readme_assets/animation_final.gif" height=400>
+## [Animated Drag & Drop](./animated_dragdrop/)
+<a href="./animated_dragdrop/">
+    <img src="./animated_dragdrop/readme_assets/animation_final.gif" height=400>
+</a>
 
 ## [Figma toolbar](./figma_toolbar/)
 <a href="./figma_toolbar/">
